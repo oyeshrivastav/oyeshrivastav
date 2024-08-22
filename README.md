@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [oyeshrivastav](oyeshrivastav)
 
-- 💬 Ask me about **HTML , CSS , Tailwind , Reactjs , Mongodb , C , C++ , MySQL , PHP**
+- 💬 Ask me about **HTML , CSS , Tailwind , Reactjs , Firebase, Mongodb , C , C++ , MySQL , PHP**
 
 - 📫 How to reach me **ankurshrivastav1503@gmail.com**
 
